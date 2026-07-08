@@ -1,4 +1,7 @@
-## Hi there 👋
+## Renda Mudau
+-- 
+
+Computer Science student experienced building full-stack applications with Java, HTML/CSS, and JavaScript. I learn best by digging deep (understanding not just how a tech stack works, but why) and applying that depth to real projects. 
 
 <!--
 **404-heisenberg/404-heisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
